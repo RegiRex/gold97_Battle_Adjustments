@@ -59,7 +59,7 @@ Moves:
 	move GROWL,        EFFECT_ATTACK_DOWN,         0, NORMAL,   100, 40,   0
 	move ROAR,         EFFECT_FORCE_SWITCH,        0, NORMAL,   100, 20,   0
 	move SING,         EFFECT_SLEEP,               0, NORMAL,    75, 15,   0
-	move SUPERSONIC,   EFFECT_CONFUSE,             0, NORMAL,    55, 20,   0
+	move SUPERSONIC,   EFFECT_CONFUSE,             0, NORMAL,    75, 20,   0
 	move SONICBOOM,    EFFECT_STATIC_DAMAGE,      20, NORMAL,    90, 20,   0
 	move DISABLE,      EFFECT_DISABLE,             0, NORMAL,    85, 20,   0
 	move ACID,         EFFECT_DEFENSE_DOWN_HIT,   40, POISON,   100, 30,  20
