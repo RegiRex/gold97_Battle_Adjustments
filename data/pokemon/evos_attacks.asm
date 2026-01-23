@@ -865,7 +865,7 @@ ArcanineEvosAttacks:
 	db 1, ROAR
 	db 1, LEER
 	db 1, TAKE_DOWN
-	db 1, FLAME_WHEEL
+	db 1, FIRE_BLAST
 	db 50, EXTREMESPEED
 	db 0 ; no more level-up moves
 
@@ -3219,11 +3219,11 @@ RinringEvosAttacks:
 	db 1, CHARM
 	db 6, PURSUIT
 	db 10, DISABLE
-	db 15, COIN_HURL
-	db 20, ATTRACT
-	db 24, FAINT_ATTACK
-	db 29, FURY_SWIPES
-	db 34, HEAL_BELL
+	db 15, FURY_SWIPES
+	db 20, FAINT_ATTACK
+	db 24, ATTRACT
+	db 28, COIN_HURL
+	db 33, HEAL_BELL
 	db 38, SLASH
 	db 43, CRUNCH
 	db 48, CONFUSE_RAY
@@ -3236,10 +3236,10 @@ BellrunEvosAttacks:
 	db 1, CHARM
 	db 6, PURSUIT
 	db 10, DISABLE
-	db 15, COIN_HURL
-	db 20, ATTRACT
-	db 24, FAINT_ATTACK
-	db 30, FURY_SWIPES
+	db 15, FURY_SWIPES
+	db 20, FAINT_ATTACK
+	db 24, ATTRACT
+	db 28, COIN_HURL
 	db 35, HEAL_BELL
 	db 41, SLASH
 	db 47, CRUNCH
