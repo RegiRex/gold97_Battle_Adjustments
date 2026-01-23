@@ -253,7 +253,7 @@ Moves:
 	move TWISTER,      EFFECT_TWISTER,            50, DRAGON,   100, 20,  20
 	move RAIN_DANCE,   EFFECT_RAIN_DANCE,          0, WATER,     90,  5,   0
 	move SUNNY_DAY,    EFFECT_SUNNY_DAY,           0, FIRE,      90,  5,   0
-	move CRUNCH,       EFFECT_DEFENSE_DOWN_HIT,   80, DARK,     100, 15,  20
+	move CRUNCH,       EFFECT_DEFENSE_DOWN_HIT,   85, DARK,     100, 15,  20
 	move MIRROR_COAT,  EFFECT_MIRROR_COAT,         1, PSYCHIC,  100, 20,   0
 	move PSYCH_UP,     EFFECT_PSYCH_UP,            0, NORMAL,   100, 10,   0
 	move EXTREMESPEED, EFFECT_PRIORITY_HIT,       80, NORMAL,   100,  5,   0
@@ -263,7 +263,7 @@ Moves:
 	move ROCK_SMASH,   EFFECT_DEFENSE_DOWN_HIT,   40, FIGHTING, 100, 15,  50
 	move WHIRLPOOL,    EFFECT_TRAP_TARGET,        35, WATER,     95, 15,   0
 	move BEAT_UP,      EFFECT_BEAT_UP,            20, DARK,     100, 10,   0
-	move COIN_HURL,    EFFECT_COIN_HURL,          60, DARK,     100, 20,   0
+	move COIN_HURL,    EFFECT_COIN_HURL,          70, DARK,     100, 20,   0
 	move MEGAPHONE,    EFFECT_SP_ATK_DOWN,        0,  NORMAL,   100, 20,   0
 	move ROCK_HEAD,    EFFECT_FLINCH_HIT,         95, ROCK,     100, 10,  30
 	move STRUGGLE,     EFFECT_RECOIL_HIT,         50, NORMAL,   100,  1,   0
