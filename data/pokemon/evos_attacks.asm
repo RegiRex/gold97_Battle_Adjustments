@@ -608,6 +608,7 @@ CrobatEvosAttacks:
 	db 33, CRUNCH
 	db 38, MEAN_LOOK
 	db 44, TOXIC
+    db 50, SLUDGE_BOMB
 	db 0 ; no more level-up moves
 
 OddishEvosAttacks:
